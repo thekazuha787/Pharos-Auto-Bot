@@ -27,7 +27,8 @@ const nfts = [
   { address: '0x0D00314d006e70cA08ac37C3469b4bF958A7580B', name: 'AutoStaking Testnet Badge' },
   { address: '0x96381ed3fcfb385cbacfe6908159f0905b19767a', name: 'Spout Badge' },
   { address: '0x4af366c7269DC9a0335Bd055Af979729c20e0F5F', name: 'PNS Badge' },
-  { address: '0x9979b7fedf761c2989642f63ba6ed580dbdfc46f', name: 'Brokex Testnet Badge' }
+  { address: '0x9979b7fedf761c2989642f63ba6ed580dbdfc46f', name: 'Brokex Testnet Badge' },
+  { address: '0x822483f6cf39b7dad66fec5f4feecbfd72172626', name: 'OpenFi Pharos Badge' }
 ];
 const PHAROS_RPC = "https://testnet.dplabs-internal.com";
 const WPHRS_CONTRACT = "0x76aaaDA469D23216bE5f7C596fA25F282Ff9b364";
